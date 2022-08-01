@@ -32,9 +32,33 @@ Pess the key "ESC" and then the command ":wq" to exit
 
 7 - Git push force
 ```
-git push origin main –force
+git push origin main –-force
 ```
 
+## git rebase
+Rebase from develop to main
 
+1 - Git checkout
+```
+git checkout main
+```
 
+2 - Git pull
+```
+git pull
+```
 
+3 - Git checkout
+```
+git checkout develop
+```
+
+4 - Git rebase
+```
+git rebase main
+```
+
+5 - Git push
+```
+git push origin develop -f
+```
