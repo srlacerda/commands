@@ -32,7 +32,7 @@ kubectl -n backend logs -f gringott-5bb957675b-9c8tj gringott
 ```
 
 
-6 - Logs pod - all-containers (gringott)
+6 - Logs pod - all-containers
 ```
 kubectl -n backend logs -f --all-containers gringott-5bb957675b-9c8tj
 ```
