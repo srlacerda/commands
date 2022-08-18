@@ -1,6 +1,24 @@
 # git-commands
 some git commands
 
+## create a new repository on the command line
+```
+echo "# datomic-test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/your-account/you-repository.git
+git push -u origin main
+```
+
+## push an existing repository from the command line
+```
+git remote add origin https://github.com/your-account/your-repository.git
+git branch -M main
+git push -u origin main
+```
+
 ## git squash
 
 1 - Git pull
