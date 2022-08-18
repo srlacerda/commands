@@ -93,7 +93,17 @@ Reset the commit, undo the commit. But keep  changes
 git reset --soft HEAD~1
 ```
 
-2 - Git push force
+2 - Git add
+```
+git add .
+```
+
+3 - Git commit
+```
+git commit -m "my new text commit"
+```
+
+4 - Git push force
 ```
 git push –f
 ```
