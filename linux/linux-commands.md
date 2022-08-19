@@ -168,10 +168,10 @@ VIM commands
 - j - up
 - k - down
 - gg - page up
-G - page down
-10 e j - 10 lines down
-5 e k - 5 lines up
-/word - find word -> downing word using key "n"
-q - quit/exit
+- G - page down
+- 10 e j - 10 lines down
+- 5 e k - 5 lines up
+- /word - find word -> downing word using key "n"
+- q - quit/exit
 
 
