@@ -133,12 +133,23 @@ others
 ps
 ```
 
-9 - Process status
+9 - Process status of all proces running (inclusive wich you dont start)
 ```
-ps
+ps aux
 ```
 
-9 - Process status
+9 - writing in a file (overrwrite if there is something in the file)
 ```
-ps
+touch a.txt
+echo "hellow world" > a.txt
+```
+
+9 - show file (don't use with big files, because the "cat" send everything to the memory)
+```
+cat a.txt
+```
+
+9 - writing in a file (appending if there is something)
+```
+echo "hellow world" >> a.txt
 ```
