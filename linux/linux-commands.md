@@ -101,41 +101,25 @@ mkdir directory-name
 ```
 
 
+## commands
+commands
 
-2 - show folders and hidden folders
+9 - Binaries of the System Operation (program "shutdown" is there)
 ```
-ls -la
-```
-
-2 - show folders and hidden folders
-```
-ls -la
+cd /sbin
 ```
 
-2 - show folders and hidden folders
+9 - Other programs of the system (bash, zsh, ls and others)
 ```
-ls -la
-```
-
-2 - show folders and hidden folders
-```
-ls -la
+cd /bin
 ```
 
-2 - show folders and hidden folders
+9 - (U)nix (S)ystem (R)esources, but you can consider like "USER", the biggest directory 
 ```
-ls -la
-```
-
-
-1 - install git
-```
-sudo apt install git
+cd /usr
 ```
 
-2 - create folder
+9 - Softwares that you install 
 ```
-mkdir name-folder
+cd /usr/bin
 ```
-
-
