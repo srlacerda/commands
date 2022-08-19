@@ -219,5 +219,11 @@ ps aux | grep bash | awk '{print $2}'
 text a part of the command and presse **"ctrl + r"** to navigate between the result
 
 
+9 - show all ambient variables
+```
+set | less
+```
+
+
 9 - chmod <br/>
 I HAVE TO LEARN!
