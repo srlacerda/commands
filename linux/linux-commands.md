@@ -123,3 +123,22 @@ cd /usr
 ```
 cd /usr/bin
 ```
+
+
+## Others
+others
+
+9 - Process status
+```
+ps
+```
+
+9 - Process status
+```
+ps
+```
+
+9 - Process status
+```
+ps
+```
