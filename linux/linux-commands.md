@@ -10,6 +10,11 @@ commands
 whoami
 ```
 
+1 - (p)rint (w)orking (d)irectory
+```
+pwd
+```
+
 2 - show directorys
 ```
 ls
@@ -25,14 +30,25 @@ ls -l
 ls -la
 ```
 
-5 - (C)hange (D)irectory -  . -> current directory
+
+5 - (C)hange (D)irectory - Go to the directory
 ```
-cd .
+cd /users/diego.lacerda/repo
 ```
 
-6 - (C)hange (D)irectory -  .. -> previous directory
+6 - cd .. -> previous directory
 ```
 cd ..
+```
+
+6 - cd $HOME
+```
+cd $HOME
+```
+
+6 - cd ~ (same thing that cd $HOME)
+```
+cd ~
 ```
 
 7 - show a manual of the command
