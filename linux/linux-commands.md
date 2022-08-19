@@ -217,3 +217,7 @@ ps aux | grep bash | awk '{print $2}'
 9 - find commands that you already used <br/>
 **ctrl + r** <br/>
 text a part of the command and presse **"ctrl + r"** to navigate between the result
+
+
+9 - chmod <br/>
+I HAVE TO LEARN!
