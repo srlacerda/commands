@@ -45,10 +45,31 @@ man ls
 touch file.txt
 ```
 
+9 - (m)a(k)e (dir)ectory
+```
+mkdir directory-name
+```
+
+10 - (r)e(m)ove 
+```
+rm -r directory-name
+```
+
+9 - (ch)ange (own)er
+```
+chown 
+```
+
 9 - (M)a(k)e (dir)ectory
 ```
 mkdir directory-name
 ```
+
+9 - (M)a(k)e (dir)ectory
+```
+mkdir directory-name
+```
+
 
 
 2 - show folders and hidden folders
