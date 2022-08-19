@@ -101,8 +101,8 @@ mkdir directory-name
 ```
 
 
-## commands
-commands
+## Directorys
+Directorys
 
 9 - Binaries of the System Operation (program "shutdown" is there)
 ```
