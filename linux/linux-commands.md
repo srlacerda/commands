@@ -25,12 +25,12 @@ ls -l
 ls -la
 ```
 
-5 - current directory
+5 - (C)hange (D)irectory -  . -> current directory
 ```
 cd .
 ```
 
-6 - previous directory
+6 - (C)hange (D)irectory -  .. -> previous directory
 ```
 cd ..
 ```
@@ -40,10 +40,16 @@ cd ..
 man ls
 ```
 
-2 - create a file, if the file exists then update the data last modification
+8 - create a file, if the file exists then update data last modification
 ```
 touch file.txt
 ```
+
+9 - (M)a(k)e (dir)ectory
+```
+mkdir directory-name
+```
+
 
 2 - show folders and hidden folders
 ```
