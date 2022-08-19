@@ -144,12 +144,25 @@ touch a.txt
 echo "hellow world" > a.txt
 ```
 
+9 - writing in a file (appending if there is something)
+```
+echo "hellow world" >> a.txt
+```
+
 9 - show file (don't use with big files, because the "cat" send everything to the memory)
 ```
 cat a.txt
 ```
 
-9 - writing in a file (appending if there is something)
+9 - allow navigate between big files
 ```
-echo "hellow world" >> a.txt
+ps aux | more
 ```
+
+9 - allow navigate between big files (allow use VIM commands) - better
+```
+ps aux | less
+```
+
+
+
