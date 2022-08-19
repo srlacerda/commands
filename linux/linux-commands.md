@@ -18,7 +18,7 @@ ls
 3 - show directorys and hidden directorys
 ```
 ls -la
-``
+```
 
 4 - current directory
 ```
