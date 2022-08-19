@@ -182,8 +182,8 @@ ln -s a.txt b.txt
 
 9 - watch the 
 - 10 -> last 10 lines of the file
-- -f -> the end of the file
-- commonly used to monitor if the file is being changed
+- -f -> the end of the file <br/>
+Commonly used to monitor if the file is being changed
 ```
 tail -10 b.txt
 ```
@@ -191,3 +191,8 @@ tail -10 b.txt
 tail -f b.txt
 ```
 
+9 - grep - (g)lobally search a (r)egular (e)xpression and (p)rint. <br/>
+we use the **stdout** from "ps aux" to **stdin** to "grep bash"
+```
+ps aux | grep bash
+```
