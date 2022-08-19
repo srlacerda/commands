@@ -196,3 +196,12 @@ we use the **stdout** from "ps aux" to **stdin** to "grep bash"
 ```
 ps aux | grep bash
 ```
+
+9 - awk - allow filter a collum from stdout <br/>
+- *$1* -> collum 1
+- *$1* -> collum 2
+- *$3* -> collum 3
+```
+ps aux | grep bash | awk '{print $2}
+```
+
