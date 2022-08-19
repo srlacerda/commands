@@ -15,29 +15,34 @@ whoami
 ls
 ```
 
-3 - show directorys and hidden directorys
+3 - show directorys and some information
+```
+ls -l
+```
+
+4 - show directorys, hidden directorys and some information
 ```
 ls -la
 ```
 
-4 - current directory
+5 - current directory
 ```
 cd .
 ```
 
-5 - previous directory
+6 - previous directory
 ```
 cd ..
 ```
 
-2 - show folders and hidden folders
+7 - show a manual of the command
 ```
-ls -la
+man ls
 ```
 
-2 - show folders and hidden folders
+2 - create a file, if the file exists then update the data last modification
 ```
-ls -la
+touch file.txt
 ```
 
 2 - show folders and hidden folders
