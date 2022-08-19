@@ -71,9 +71,18 @@ touch file.txt
 mkdir directory-name
 ```
 
+9 - move
+```
+mv file.txt directory-name
+```
+
+
 10 - (r)e(m)ove 
 ```
 rm -r directory-name
+```
+```
+rm -Rf directory-name
 ```
 
 9 - (ch)ange (own)er
