@@ -51,6 +51,11 @@ cd $HOME
 cd ~
 ```
 
+6 - cd / - Go to root folder
+```
+cd /
+```
+
 7 - show a manual of the command
 ```
 man ls
@@ -81,7 +86,7 @@ chown
 echo $HOME
 ```
 ```
-echo ˜
+echo ~
 ```
 
 
