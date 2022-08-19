@@ -154,7 +154,7 @@ echo "hellow world" >> a.txt
 cat a.txt
 ```
 
-9 - allow navigate between big files
+9 - allow navigate between big files (not efficient, like the command above)
 ```
 ps aux | more
 ```
