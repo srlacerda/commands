@@ -1,12 +1,12 @@
-# aws-commands
+# linux-commands
+some linux commands
+
+## commands
 commands
 
-## publish lambda
-aws-commands
-
-1 - Install Amazon.Lambda.Tools
+1 - install git
 ```
-dotnet tool install -g Amazon.Lambda.Tools
+sudo apt install git
 ```
 
 2 - Publsh
