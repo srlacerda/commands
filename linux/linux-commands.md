@@ -202,6 +202,6 @@ ps aux | grep bash
 - *$1* -> collum 2
 - *$3* -> collum 3
 ```
-ps aux | grep bash | awk '{print $2}
+ps aux | grep bash | awk '{print $2}'
 ```
 
