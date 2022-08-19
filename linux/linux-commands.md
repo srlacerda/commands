@@ -76,6 +76,15 @@ rm -r directory-name
 chown 
 ```
 
+9 - ECHO - Show the value of the variable
+```
+echo $HOME
+```
+```
+echo ˜
+```
+
+
 9 - (M)a(k)e (dir)ectory
 ```
 mkdir directory-name
