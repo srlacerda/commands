@@ -174,4 +174,18 @@ VIM commands
 - /word - find word -> downing word using key "n"
 - q - quit/exit
 
+9 - create a link from a file (a.txt) to link b.txt
+```
+ln -s a.txt b.txt
+```
+
+9 - watch the 
+- 10 -> last 10 lines of the file
+- -f -> the end of the file
+```
+tail -10 b.txt
+```
+```
+tail -f b.txt
+```
 
