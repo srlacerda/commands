@@ -179,10 +179,11 @@ VIM commands
 ln -s a.txt b.txt
 ```
 
-(commonly used to monitoring if the file is being changed)
+
 9 - watch the 
 - 10 -> last 10 lines of the file
 - -f -> the end of the file
+- commonly used to monitor if the file is being changed
 ```
 tail -10 b.txt
 ```
