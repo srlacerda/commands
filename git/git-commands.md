@@ -125,3 +125,9 @@ git commit --amend
 ```
 git push –f
 ```
+
+## Others
+1 - Git add -p (show the unstaged files. Press 'n' (for no stage) and press 'y' (for yes stage)
+```
+git add -p
+```
