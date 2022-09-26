@@ -126,6 +126,25 @@ git commit --amend
 git push –f
 ```
 
+## git stash
+Allow pull a branch without discard changes uncommited
+
+1 - Git stash (it will send everithing to stash)
+```
+git stash
+```
+
+2 - Git pull
+```
+git pull
+```
+
+3 - Git stash pop (it will send everithing to uncommited files)
+```
+git stash pop
+```
+
+
 ## Others
 1 - Git add -p (show the unstaged files. Press 'n' (for no stage) and press 'y' (for yes stage)
 ```
